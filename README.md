@@ -12,4 +12,5 @@ This repository provides some simple cipher script in Python.
 
 | title | link | 
 | :---: | :--- |
-| **Basic transposition** | [Transposition](./basic_transposition/transposition.py) |
+| *Basic transposition* | [Transposition](./basic_transposition/transposition.py) |
+| *Basic substitution* | [Substitution](./basic_substitution/substitution.py) |
