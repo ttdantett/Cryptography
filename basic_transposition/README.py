@@ -1,6 +1,5 @@
 # Basic transposition cipher 
-
-Usage example:
+#Usage example:
 
 plaintext = "ilovecryptography"
 key = "secret"
