@@ -42,5 +42,4 @@ def transpose(_text, _key, enc = True):
 	# Creation of the string
 	for i in range(len(_text)):
 		result += t[i]
-
 	return result

@@ -2,8 +2,8 @@
 #Usage example:
 
 plaintext = "ilovecryptography"
-_alphabet = "aqwzsxedcrfvtgbyhnujikolpm"
-cipher = substitute(plaintext,_alphabet)
+new_alphabet = "aqwzsxedcrfvtgbyhnujikolpm"
+cipher = substitute(plaintext,new_alphabet)
 print(cipher)
-plain = substitute(cipher,_alphabet,False)
+plain = substitute(cipher,new_alphabet,False)
 print(plain)
