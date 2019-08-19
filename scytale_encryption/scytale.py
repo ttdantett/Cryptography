@@ -1,4 +1,4 @@
-# Scytale encryption algorithme
+# Scytale encryption algorithm
 # Author : ttdantett
 # Date : 15/08/2019
 
