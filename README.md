@@ -15,3 +15,4 @@ This repository provides some simple cipher script in Python.
 | *Basic transposition* | [Transposition](./basic_transposition/transposition.py) |
 | *Basic substitution* | [Substitution](./basic_substitution/substitution.py) |
 | *Scytale encryption* | [Scytale](./scytale_encryption/scytale.py) |
+| *Ceasar encryption* | [Ceasar](./ceasar_encryption/ceasar.py) |
