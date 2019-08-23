@@ -11,11 +11,15 @@
 
 ## Usage example:
 
+```python
 cipher = encrypt("Thisisatest")
 print(cipher)
+```
 
+```python
 plain = decrypt(cipher)
 print(plain)
+```
 
 ## REMARK 
 This polybius square does not let you use the character 'Z' in your plain text.
