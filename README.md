@@ -16,3 +16,4 @@ This repository provides some simple cipher script in Python.
 | *Basic substitution* | [Substitution](./basic_substitution/substitution.py) |
 | *Scytale encryption* | [Scytale](./scytale_encryption/scytale.py) |
 | *Ceasar encryption* | [Ceasar](./ceasar_encryption/ceasar.py) |
+| *Polybius square* | [Polybius](./polybius_square/polybius.py) |
